@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MaviNew(1)", "..\..\..\Desktop\MaviNew\MaviNew\MaviNew\", "{F8D7C77D-C5A6-4F50-8DDB-FFEB62E2D2A3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49896"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\MaviNew\MaviNew\MaviNew\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49896\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49896"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\MaviNew\MaviNew\MaviNew\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49896\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49896"
+		SlnRelativePath = "..\..\..\Desktop\MaviNew\MaviNew\MaviNew\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8D7C77D-C5A6-4F50-8DDB-FFEB62E2D2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D7C77D-C5A6-4F50-8DDB-FFEB62E2D2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E227C95-9A39-4234-8B98-9B4452FCE639}
+	EndGlobalSection
+EndGlobal
